@@ -1,0 +1,56 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:pink;
+}
+
+
+h1{
+    text-align: center;
+    background-position: 0cqb;
+    text-decoration-color: brown;
+    background-color:blueviolet;   
+}
+.about{
+    
+    
+    align-content: right;
+
+    -ms-text-combine-horizontal: all;
+   /* border: 5px solid #73AD21;*//
+  
+  
+   
+}
+h2{
+    text-align: center;
+}
+.topnav{
+    background-color: yellow;
+    overflow: hidden;
+    display: flexbox;
+}
+h3{
+    text-align: left;
+    background-color: blueviolet;
+}
+img{
+    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    border-radius: 50px;
+}
+
+.s{
+    height: 50px;
+    width:30;
+    
+}
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
